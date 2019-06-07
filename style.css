@@ -1,5 +1,5 @@
 
-            h1{
+            h2{
                 color:red;
                 background:yellow;
             }
@@ -9,5 +9,16 @@
                 color:yellow;
             }
             body
-            { background:silver;
-            }
+            { background:#3498db;
+                 }
+.box{
+    background-image:url(IMG-1.JPG);
+    margin:100px 50px 100px 75px;
+    padding:100px 50px 100px 75px;
+}
+
+
+#image{
+    border:10px solid blue; 
+        border-radius: 200px;
+}
